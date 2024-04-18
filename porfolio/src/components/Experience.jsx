@@ -59,7 +59,7 @@ const Experience = () => {
       style: "shadow-gray-400",
     },
     {
-      id: 6,
+      id: 9,
       src: antenna,
       title: "antenna",
       style: "shadow-white",
